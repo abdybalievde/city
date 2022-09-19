@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+}
+ul,li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.container{
+   width: 100%;
+   max-width: 1200px;
+   padding: 0 3rem;
+   margin: 0 auto;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14;
+}
+.global-title{
+    font-weight: 600;
+    font-size: 20px;
+    color:#0974f1;
+    line-height:1.23;
+    margin-bottom: 40px;
+}
